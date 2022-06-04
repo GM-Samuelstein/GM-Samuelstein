@@ -6,7 +6,7 @@
 - 👀 I’m interested in learning all i can about software development/engineering, as well as the latest technologies in the tech industry.
 - 🌱 I started out, for the first time on this road, at the wonderful ALX SE School, May 2022, and it has been an amazing journey so far.
  
-- 📫 You can reach me through my mail ```ibitowaifeoluwa@yahoo.com```
+- 📫 You can reach me through my mail: ibitowaifeoluwa@yahoo.com
 
 <!---
 GM-Samuelstein/GM-Samuelstein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
