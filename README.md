@@ -1,4 +1,4 @@
-<h1>Hello 👋 My name is Samuel.</h1>
+<h1 align="center">Hello 👋 My name is Samuel.</h1>
 
 - The 'GM' in GM-Samuelstein stands for Grandmaster, as in Chess Grandmaster.
 - Chess is my hobby and although i have not achieved a Grandmaster title yet in chess, i will get it for sure some day.
