@@ -9,7 +9,7 @@
       <p>Chess is my hobby and although I have not achieved a Grandmaster title yet in chess, I will get it for sure some day, right after I become a Grandmaster in software development and engineering.</p>
       <p>- 👀 I’m interested in learning all I can about software development/programming, as well as the latest technologies in the tech industry.</p>
       <p>- 🌱 I started out, for the first time on this road, at the wonderful ALX SE School, May 2022, and it has been an amazing journey so far.</p>
-      <p>- 📫 How to reach me: <b><a href=mailto:gmsamuelstein@gmail.com alt=email>gmsamuelstein@gmail.com</a></b></p>
+      <p>- 📫 How to reach me: <b><a href=mailto:samuelibitowa@gmail.com alt=email>gmsamuelstein@gmail.com</a></b></p>
     </td>
   <!--
     <td>
